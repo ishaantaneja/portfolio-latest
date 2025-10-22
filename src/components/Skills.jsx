@@ -14,7 +14,7 @@ const Skills = () => {
 
   const skillCategories = [
     {
-      category: 'Languages & Frameworks',
+      category: 'Languages/Libraries/Frameworks',
       skills: [
         { name: 'JavaScript', icon: SiJavascript, color: '#F7DF1E' },
         { name: 'Python', icon: SiPython, color: '#3776AB' },

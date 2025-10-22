@@ -35,7 +35,7 @@ const Projects = () => {
     },
     {
       title: 'Game 2048',
-      description: 'Lightweight game engine (sub-50KB bundle) as plug-and-play loading screen, reducing bounce rates during downtime. Built with vanilla JavaScript for maximum performance.',
+      description: 'Lightweight game engine (sub-50KB bundle) as plug-and-play loading screen, reducing bounce rates during downtime.',
       tech: ['Vanilla JavaScript'],
       github: 'https://github.com/ishaantaneja/Game_2048',
       live: null,

@@ -75,7 +75,7 @@ const About = () => {
                 </li>
                 <li className="flex items-start">
                   <span className="text-cyber-pink mr-2">▹</span>
-                  <span><strong>Current Role:</strong> Cloud Engineering Trainee at Google Cloud</span>
+                  <span><strong>Current Role:</strong> Cloud Engineering Trainee at Google Cloud Skills Boost</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-cyber-pink mr-2">▹</span>
